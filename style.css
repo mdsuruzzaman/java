@@ -1,0 +1,23 @@
+body{
+
+}
+.main{
+    background-color: burlywood;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.photo{
+
+}
+.photo img{
+width: 100px;
+height: 100px;
+border-radius: 50%;
+}
+.text{
+
+}
+.date{
+
+}
